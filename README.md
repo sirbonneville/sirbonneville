@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sirbonneville
+- 👀 I’m interested in AI, data analysis, and baseball
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on small projects that will help me build my Python skills
+- 📫 Reach me at bonnevillehouse2023@gmail.com!
